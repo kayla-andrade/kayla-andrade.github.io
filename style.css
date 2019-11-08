@@ -1,0 +1,29 @@
+body {
+background: #7fbf7f;
+text-align: center;
+} 
+#main {
+width: 1000px;
+height: 1300px; 
+background: #ffffff;
+margin: 25px auto;
+border: solid 2px #004000;
+padding: 10px;
+}
+h1 {
+text-align: center;
+font-family:"Lucida Console";
+font: 20pt;
+color: #004000;
+}
+hr {
+height: 2px;
+color: #004000;
+}
+p {
+font-family:"Lucida Console";
+font: 20pt;
+text-align: center;
+text-indent: 48px;
+color: #004000;
+}
